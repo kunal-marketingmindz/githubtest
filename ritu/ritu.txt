@@ -1,10 +1,6 @@
 hello ritu
 
-<<<<<<< HEAD
 kunal nagar 123 testing
-=======
-adjlkjsadlkjadslkjadslkjasdlkjadskj
->>>>>>> 8d916e3c5547a7f2929dfc88963a52b3a9259403
 
 kunal has changed this file
 
