@@ -6,6 +6,4 @@ kunal has changed this file
 
 removed hello github
 
-github testing
-
-new file
+ritu documnet
